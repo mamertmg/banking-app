@@ -5,7 +5,6 @@ export default async function RootLayout({
   }>) {
     return (
         <main>
-            SIDER
             {children}
         </main>
     )
