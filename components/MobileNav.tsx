@@ -66,7 +66,7 @@ const MobileNav = ({user}: MobileNavProps) => {
                             USER
                             </nav>
                         </SheetClose>
-            </div>
+                    </div>
                 </SheetContent>
             </Sheet>
         </section>
