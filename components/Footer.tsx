@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 
 import { useRouter } from 'next/navigation'
-import { logoutAccount } from '@/lib/actions/user.action'
+import { logoutAccount } from '@/lib/actions/user.actions'
 
 const Footer = ({ user, type = 'desktop' }: FooterProps) => {
 
